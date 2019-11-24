@@ -1,0 +1,37 @@
+﻿  chatbot.c
+C:\Users\Terence\Desktop\1002 Project\C_Project\C_Project\cproject\chatbot.c(224,24): warning C4101: 'allEntityLower': unreferenced local variable
+C:\Users\Terence\Desktop\1002 Project\C_Project\C_Project\cproject\chatbot.c(428,6): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\Terence\Desktop\1002 Project\C_Project\C_Project\cproject\chatbot.c(429,22): warning C4013: 'localtime' undefined; assuming extern returning int
+C:\Users\Terence\Desktop\1002 Project\C_Project\C_Project\cproject\chatbot.c(429,32): warning C4047: '=': 'tm *' differs in levels of indirection from 'int'
+C:\Users\Terence\Desktop\1002 Project\C_Project\C_Project\cproject\chatbot.c(462,61): warning C4013: 'asctime' undefined; assuming extern returning int
+  knowledge.c
+C:\Users\Terence\Desktop\1002 Project\C_Project\C_Project\cproject\chatbot.c(462,25): warning C4477: 'snprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+C:\Users\Terence\Desktop\1002 Project\C_Project\C_Project\cproject\knowledge.c(45,29): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[32]'
+C:\Users\Terence\Desktop\1002 Project\C_Project\C_Project\cproject\knowledge.c(45,29): warning C4024: 'compare_token': different types for formal and actual parameter 1
+C:\Users\Terence\Desktop\1002 Project\C_Project\C_Project\cproject\knowledge.c(46,30): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[64]'
+C:\Users\Terence\Desktop\1002 Project\C_Project\C_Project\cproject\knowledge.c(46,30): warning C4024: 'compare_token': different types for formal and actual parameter 1
+C:\Users\Terence\Desktop\1002 Project\C_Project\C_Project\cproject\knowledge.c(47,33): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[256]'
+C:\Users\Terence\Desktop\1002 Project\C_Project\C_Project\cproject\knowledge.c(47,33): warning C4024: 'strncpy': different types for formal and actual parameter 2
+C:\Users\Terence\Desktop\1002 Project\C_Project\C_Project\cproject\knowledge.c(89,22): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[32]'
+C:\Users\Terence\Desktop\1002 Project\C_Project\C_Project\cproject\knowledge.c(89,22): warning C4024: 'strcmp': different types for formal and actual parameter 1
+C:\Users\Terence\Desktop\1002 Project\C_Project\C_Project\cproject\knowledge.c(89,54): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[64]'
+C:\Users\Terence\Desktop\1002 Project\C_Project\C_Project\cproject\knowledge.c(89,54): warning C4024: 'strcmp': different types for formal and actual parameter 1
+C:\Users\Terence\Desktop\1002 Project\C_Project\C_Project\cproject\knowledge.c(90,36): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[256]'
+C:\Users\Terence\Desktop\1002 Project\C_Project\C_Project\cproject\knowledge.c(90,36): warning C4024: 'strcpy': different types for formal and actual parameter 1
+C:\Users\Terence\Desktop\1002 Project\C_Project\C_Project\cproject\knowledge.c(96,46): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[32]'
+C:\Users\Terence\Desktop\1002 Project\C_Project\C_Project\cproject\knowledge.c(96,46): warning C4024: 'strcpy': different types for formal and actual parameter 1
+C:\Users\Terence\Desktop\1002 Project\C_Project\C_Project\cproject\knowledge.c(97,46): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[64]'
+C:\Users\Terence\Desktop\1002 Project\C_Project\C_Project\cproject\knowledge.c(97,46): warning C4024: 'strcpy': different types for formal and actual parameter 1
+C:\Users\Terence\Desktop\1002 Project\C_Project\C_Project\cproject\knowledge.c(98,48): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[256]'
+C:\Users\Terence\Desktop\1002 Project\C_Project\C_Project\cproject\knowledge.c(98,48): warning C4024: 'strcpy': different types for formal and actual parameter 1
+C:\Users\Terence\Desktop\1002 Project\C_Project\C_Project\cproject\knowledge.c(143,48): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[32]'
+C:\Users\Terence\Desktop\1002 Project\C_Project\C_Project\cproject\knowledge.c(143,48): warning C4024: 'strcpy': different types for formal and actual parameter 1
+C:\Users\Terence\Desktop\1002 Project\C_Project\C_Project\cproject\knowledge.c(145,48): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[64]'
+C:\Users\Terence\Desktop\1002 Project\C_Project\C_Project\cproject\knowledge.c(145,48): warning C4024: 'strcpy': different types for formal and actual parameter 1
+C:\Users\Terence\Desktop\1002 Project\C_Project\C_Project\cproject\knowledge.c(148,50): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[256]'
+  main.c
+  Generating Code...
+C:\Users\Terence\Desktop\1002 Project\C_Project\C_Project\cproject\knowledge.c(148,50): warning C4024: 'strcpy': different types for formal and actual parameter 1
+C:\Users\Terence\Desktop\1002 Project\C_Project\C_Project\cproject\chatbot.c(411): warning C4715: 'chatbot_is_smalltalk': not all control paths return a value
+  LINK : C:\Users\Terence\Desktop\1002 Project\C_Project\C_Project\cproject\Debug\cproject.exe not found or not built by the last incremental link; performing full link
+  cproject.vcxproj -> C:\Users\Terence\Desktop\1002 Project\C_Project\C_Project\cproject\Debug\cproject.exe
